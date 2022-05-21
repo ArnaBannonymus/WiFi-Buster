@@ -1,15 +1,4 @@
 
-
-# Wifi-Hacking.py  ![alt tag](http://icons.iconarchive.com/icons/icons8/ios7/48/Network-Wifi-Logo-icon.png)
-
-
-
-No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For You Any Wifi-Password..!
-
-
-[![asciicast](https://asciinema.org/a/362908.svg)](https://asciinema.org/a/362908)
-
-
 ## Feutures and Contains :
 
 
